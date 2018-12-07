@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>repoDemo</name>
+=======
+	<name>KeywordFramework</name>
+>>>>>>> b835cebf4a5f8c7fe99ee7f1604aa7c0282314fd
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> b835cebf4a5f8c7fe99ee7f1604aa7c0282314fd
 	</natures>
 </projectDescription>
